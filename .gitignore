@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache files
+_pycache_/
+*.pyc# Ignore Python virtual environment
+.venv/
+
